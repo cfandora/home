@@ -59,7 +59,6 @@ import {
   Camera,
   Film,
   Music,
-  Book,
   Gamepad,
 } from "@vicons/fa";
 import { mainStore } from "@/store";
@@ -84,7 +83,6 @@ const siteIcon = {
   Camera,
   Film,
   Music,
-  Book,
   Gamepad,
 };
 

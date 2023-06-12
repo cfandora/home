@@ -92,12 +92,12 @@ watch(
     .name {
       width: 100%;
       height: 142px;
-      margin-left: 12px;
-      transform: translateY(-8px);
-      font-family: "Pacifico-Regular";
+      margin-left: 20px;
+      transform: translateY(55px);
+      font-family: "MicrosoftYaHei";
 
       .bg {
-        font-size: 5rem;
+        font-size: 2rem;
       }
 
       .sm {
@@ -113,9 +113,9 @@ watch(
         width: 100px;
       }
       .name {
-        height: 128px;
+        height: 145px;
         .bg {
-          font-size: 4.5rem;
+          font-size: 2rem;
         }
       }
     }

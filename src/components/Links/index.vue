@@ -56,6 +56,11 @@ import {
   Book,
   Fire,
   LaptopCode,
+  Camera,
+  Film,
+  Music,
+  Book,
+  Gamepad,
 } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -69,9 +74,15 @@ const store = mainStore();
 // 网站链接图标
 const siteIcon = {
   Link,
+  Blog,
+  CompactDisc,
+  Cloud,
+  Compass,
+  Book,
+  Fire,
+  LaptopCode,
   Camera,
   Film,
-  Cloud,
   Music,
   Book,
   Gamepad,
@@ -80,35 +91,35 @@ const siteIcon = {
 // 网站链接数据
 const linksData = [
   {
-    icon: Book,
+    icon: Blog,
     name: "博客",
-    link: "https://blog.cfandora.com/",
+    link: "https://blog.imsyy.top/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://cf.goodtool.cf/",
+    link: "https://pan.imsyy.top/",
   },
   {
-    icon: Camera,
-    name: "图床",
-    link: "https://bp.funtool.tk/",
-  },
-  {
-    icon: Film,
-    name: "影视",
-    link: "https://play.filmen.ml/",
-  },
-  {
-    icon: Music,
+    icon: CompactDisc,
     name: "音乐",
-    link: "https://m.filmen.ml/",
+    link: "https://music.imsyy.top/",
   },
   {
-    icon: Gamepad,
-    name: "游戏",
-    link: "https://g.filmen.ml/",
-  }
+    icon: Compass,
+    name: "起始页",
+    link: "https://nav.imsyy.top/",
+  },
+  {
+    icon: Book,
+    name: "网址集",
+    link: "https://web.imsyy.top/",
+  },
+  {
+    icon: Fire,
+    name: "今日热榜",
+    link: "https://hot.imsyy.top/",
+  },
 ];
 
 // 链接跳转

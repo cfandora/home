@@ -60,6 +60,7 @@ import {
   Film,
   Music,
   Gamepad,
+  BookReader,
 } from "@vicons/fa";
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
@@ -84,6 +85,7 @@ const siteIcon = {
   Film,
   Music,
   Gamepad,
+  BookReader,
 };
 
 // 网站链接数据

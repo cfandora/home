@@ -6,14 +6,14 @@
       "link": "https://blog.cfandora.com/"
     },
     {
-      "icon": "Cloud",
-      "name": "网盘",
-      "link": "https://cf.goodtool.cf/"
-    },
-    {
       "icon": "Camera",
       "name": "图床",
       "link": "https://bp.funtool.tk/"
+    },
+    {
+      "icon": "BookReader",
+      "name": "书库",
+      "link": "https://b.filmen.ml/"
     },
     {
       "icon": "Film",

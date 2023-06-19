@@ -7,8 +7,6 @@
         :key="item.name"
         :href="item.url"
         target="_blank"
-        @mouseenter="socialTip = item.tip"
-        @mouseleave="socialTip = '通过这里联系我吧'"
       >
         <img class="icon" :src="item.icon" height="24" />
       </a>
@@ -20,9 +18,6 @@
 <script setup>
 import { ref } from "vue";
 import socialLinks from "@/assets/socialLinks.json";
-
-// 社交链接提示
-const socialTip = ref("通过这里联系我吧");
 </script>
 
 <style lang="scss" scoped>

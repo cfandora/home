@@ -3,32 +3,32 @@
     {
       "icon": "Book",
       "name": "博客",
-      "link": "https://blog.cfandora.com/"
+      "link": "https://blog.cfandora.com"
     },
     {
       "icon": "Camera",
       "name": "图床",
-      "link": "https://bp.funtool.tk/"
+      "link": "https://bp.funtool.tk"
     },
     {
       "icon": "BookReader",
       "name": "书库",
-      "link": "https://b.filmen.ml/"
+      "link": "https://b.fileman.tk"
     },
     {
       "icon": "Film",
       "name": "影视",
-      "link": "https://play.filmen.ml/"
+      "link": "https://play.fileman.tk"
     },
     {
       "icon": "Music",
       "name": "音乐",
-      "link": "https://m.filmen.ml/"
+      "link": "https://m.fileman.tk"
     },
     {
       "icon": "Gamepad",
       "name": "游戏",
-      "link": "https://g.filmen.ml/"
+      "link": "https://g.fileman.tk"
     }
   ]
 ]

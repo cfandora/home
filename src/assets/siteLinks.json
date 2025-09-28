@@ -1,37 +1,27 @@
 [
   {
-    "icon": "Blog",
+    "icon": "/imgaes/icon/nb.ico",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://story.cfandora.com/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "/imgaes/icon/nintendoswitch.svg",
+    "name": "Nintendo",
+    "link": "https://lounge.nintendo.com/friendcode/0782-1543-4808/CyS6Q4W7Tt/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "/imgaes/icon/xbox.svg",
+    "name": "Xbox",
+    "link": "https://xbox.com/play/user/cfandora/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "/imgaes/icon/steam.svg",
+    "name": "Steam",
+    "link": "https://steamcommunity.com/id/cfandora/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "/imgaes/icon/epic-games.svg",
+    "name": "EpicGames",
+    "link": "https://store.epicgames.com/u/179d6acdcd634aec84160d3615f1a097/"
   }
 ]
